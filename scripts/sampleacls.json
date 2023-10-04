@@ -1,38 +1,9 @@
 {
     "files": {
-        "Benefit_Options.pdf": {
-            "directory": "benefitinfo"
-        },
-        "employee_handbook.pdf": {
-            "directory": "employeeinfo"
-        },
-        "Northwind_Health_Plus_Benefits_Details.pdf": {
-            "directory": "benefitinfo"
-        },
-        "Northwind_Standard_Benefits_Details.pdf": {
-            "directory": "benefitinfo"
-        },
-        "PerksPlus.pdf": {
-            "directory": "benefitinfo"
-        },
-        "role_library.pdf": {
-            "directory": "employeeinfo"
+        "Process-Handbook-DAS-Release 23.2.pdf": {
+            "directory": ""
         }
     },
-    "directories": {
-        "employeeinfo": {
-            "groups": ["GPTKB_HRTest"]
-        },
-        "benefitinfo": {
-            "groups": ["GPTKB_EmployeeTest", "GPTKB_HRTest"]
-        },
-        "/": {
-            "groups": ["GPTKB_AdminTest"]
-        }
-    },
-    "groups": [
-        "GPTKB_AdminTest",
-        "GPTKB_HRTest",
-        "GPTKB_EmployeeTest"
-    ]
+    "directories": {},
+    "groups": []
 }
